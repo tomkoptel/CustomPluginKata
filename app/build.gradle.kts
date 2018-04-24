@@ -1,9 +1,3 @@
-import com.sample.plugin.gradle.Config.Android.buildToolsVersion
-import com.sample.plugin.gradle.Config.Android.compileSdkVersion
-import com.sample.plugin.gradle.Config.Android.minSdkVersion
-import com.sample.plugin.gradle.Config.Android.targetSdkVersion
-import com.sample.plugin.gradle.Config.Android.versionCode
-import com.sample.plugin.gradle.Config.Android.versionName
 import org.gradle.kotlin.dsl.extra
 import org.gradle.kotlin.dsl.getValue
 import org.gradle.kotlin.dsl.kotlin
